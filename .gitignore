@@ -6,6 +6,13 @@
 .DS_Store
 .atom/
 .build/
+node_modules/
+node_modules/
+backend/node_modules/
+functions/node_modules/
+.env
+build/
+.dart_tool/
 .buildlog/
 .history
 .svn/

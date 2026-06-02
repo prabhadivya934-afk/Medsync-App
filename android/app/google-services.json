@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "701171846779",
+    "project_id": "medsync-5e647",
+    "storage_bucket": "medsync-5e647.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701171846779:android:30b3faf7d0b89e1cb4dcde",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVCmg_ToM01s03q9k6KwgbWSuZiMffTyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701171846779:android:744c2ee12c310bfdb4dcde",
+        "android_client_info": {
+          "package_name": "com.example.medsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVCmg_ToM01s03q9k6KwgbWSuZiMffTyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701171846779:android:2457f6b53c498e3fb4dcde",
+        "android_client_info": {
+          "package_name": "com.medsync.divya.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVCmg_ToM01s03q9k6KwgbWSuZiMffTyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
